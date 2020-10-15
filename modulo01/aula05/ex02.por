@@ -9,13 +9,13 @@ programa
 		escreva("Nome do(a) Funcionário(a): ")
 		leia(nomeFuncionario)
 		escreva("Ano de nascimento: ")
-		leia(anoDeNascimentoDoUsuario)
+		leia(anoDeNascimentoDoFuncionario)
 		escreva("Salário: R$")
 		leia(salarioDoFuncionario)
 		escreva("\n")
 		escreva("---------  FICHA FUNCIONAL  ---------\n")
 		escreva("NOME: ",nomeFuncionario,"\n")
-		escreva("NASCIMENTO em ",anoDeNascimentoDoUsuario,"\n")
+		escreva("NASCIMENTO em ",anoDeNascimentoDoFuncionario,"\n")
 		escreva("Salário de R$",salarioDoFuncionario,"\n")
 		escreva("-------------------------------------\n")
 	}
@@ -25,7 +25,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 524; 
+ * @POSICAO-CURSOR = 475; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
