@@ -7,4 +7,6 @@ Caso tenha interesse em conhecer o projeto, [acesse aqui.](https://www.youtube.c
 
 Módulo 0: ✅
 
-atualizado em 15/10/2020.
+Módulo 1: ✅
+
+atualizado em 16/10/2020.
